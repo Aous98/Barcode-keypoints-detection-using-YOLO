@@ -1,0 +1,14 @@
+
+path: /home/aous/Desktop/MIPT/project/yolo data/data splitted
+train: train  # train images (relative to 'path')
+val: validation  # val images (relative to 'path')
+
+
+kpt_shape: [9, 3]
+
+
+nc: 1
+names: ['Multi-stacked barcode']
+
+
+
